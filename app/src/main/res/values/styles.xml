@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="RaisedButtonDark" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+        </style>
+    <style name="EditTextWhite" parent="TextAppearance.AppCompat">
+    <item name="android:textColorHint">@color/editTextColorWhite</item>
+    <!-- cambio de tamaño del texto -->
+    <item name="android:textSize">@dimen/edittex_textzise_login</item>
+    <!-- cuando el texto este clikeado -->
+    <item name="android:textColorPrimary">@color/editTextColorWhite</item>
+    <!-- color de acentuación -->
+    <item name="colorAccent">@color/editTextColorWhite</item>
+    <!-- ccuando el control esta normal -->
+    <item name="colorControlNormal">@color/editTextColorWhite</item>
+    <!-- cuando el control esta activado-->
+    <item name="colorControlActivated">@color/editTextColorWhite</item>
+
+    </style>
+    <style name="EditTextBlack" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@color/editTextColorBlack</item>
+        <!-- cambio de tamaño del texto -->
+        <item name="android:textSize">@dimen/edittex_textzise_login</item>
+        <!-- cuando el texto este clikeado -->
+        <item name="android:textColorPrimary">@color/editTextColorBlack</item>
+        <!-- color de acentuación -->
+        <item name="colorAccent">@color/editTextColorBlack</item>
+        <!-- ccuando el control esta normal -->
+        <item name="colorControlNormal">@color/editTextColorBlack</item>
+        <!-- cuando el control esta activado-->
+        <item name="colorControlActivated">@color/editTextColorBlack</item>
+
+    </style>
+</resources>

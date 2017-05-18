@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_nameuser">Nombre Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_botton_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="createHere"> Crea una aquí</string>
+    <string name="hint_email">correo</string>
+    <string name="hint_name">Nombres</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_botton_creatteaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+    <string name="username_card">Uriel Ramiréz</string>
+    <string name="firstWord_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumberCard_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me gusta</string>
+    <string name="tittleimagedetail">\"Todo copas en la playa\"</string>
+    <string name="contenimagedetail">If you would like to contribute code you can do so through GitHub by forking the repository and sending a pull request.  When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible. Please also make sure your code compiles by running</string>
+    <string name="transitionname_picture">Transition name picture</string>
+    <string name="tomar_foto">Tomar Foto</string>
+</resources>
